@@ -1,0 +1,23 @@
+/Hess-Tool/
+/venv/
+/PARALLELIZATION THOUGHTS.txt
+/__pycache__
+ash_user_settings.ini
+TODO
+.idea
+.vscode
+ASH-testdir
+backup
+euclidean-c-test
+reorder-test
+.DS_Store
+test.py
+unused
+__pycache__
+set_environment_ash.sh
+.env
+modules/__pycache__
+TODO
+ash.egg-info
+build
+.pre-commit-config.yaml

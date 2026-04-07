@@ -1,0 +1,10 @@
+# Minimal dependency entrypoint for this research repository.
+#
+# This file intentionally lists a light baseline so contributors can start with
+# controller mock-mode and incremental setup. Advanced workflows (retrieval,
+# chemistry tooling, local models, Gaussian/HPC integration) need additional
+# environment-specific packages and external software; see docs/quickstart.md.
+
+openai>=1.0.0
+requests>=2.31.0
+tenacity>=8.2.0
