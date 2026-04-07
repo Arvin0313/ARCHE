@@ -1,4 +1,4 @@
-# ChemistryAgent_pass_test
+# ARCHE
 
 Research-oriented multi-agent computational chemistry workflow prototype.
 
